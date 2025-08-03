@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+xarray
+scikit-image
+numpy
+scipy
+netCDF4
+h5netcdf
